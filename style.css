@@ -13,19 +13,19 @@ body {
 }
 
 .header__avatar {
-  border-radius: 40%;
-  width: 320px;
-  height: 320px;
+  border-radius: 60%;
+  width: 300px;
+  height: 300px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
 .header__title {
-  margin: 30px 0 10px 0;
-  font-size: 32px;
-  line-height: 1.2;
-  font-family: "Helvetica Neue";
+  margin: 25px 0 10px 0;
+  font-size: 35px;
+  line-height: 1;
+  font-family: "fantasy";
 }
 
 .header__subtitle {
@@ -36,7 +36,7 @@ body {
 }
 
 .links {
-  width: 320px;
+  width: 330px;
   margin-bottom: 40px;
 }
 
