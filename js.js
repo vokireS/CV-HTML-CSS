@@ -1,4 +1,4 @@
 const button = document.querySelector('button');
 button.addEventListener('click', function() {
-	alert('Сырков вкусных...)')
+	alert('300к/cек...)')
 })
